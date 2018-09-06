@@ -233,3 +233,5 @@ Array.from(restartButton).forEach(el => {
     startGame()
   })
 });
+
+// inspiration derived from https://github.com/sandraisrael/Memory-Game-fend/blob/master/js/app.js
