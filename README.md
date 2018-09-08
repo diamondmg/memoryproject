@@ -1,13 +1,14 @@
+# memoryproject
 
-# Overview
+Memory Game for Udacity
+
+## Overview
 
 The game contains 16 cards, match up all 8 cards and you win! The goal is to complete the game with the lowest time and highest rating, though there is no time or rating limit.
 
 ## Getting Started
 
-Download the repository, extract the .zip file, and open index.html
-OR
-[Click here](https://codepen.io/diamondmg/full/bxRmQb/) to play the live version.
+Download the repository, extract the .zip file, and open index.html or [click here](https://codepen.io/diamondmg/full/bxRmQb/) to play the live version.
 
 ## Rules
 
