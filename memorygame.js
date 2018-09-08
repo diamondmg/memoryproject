@@ -1,4 +1,7 @@
 //variable declarations
+(function(){
+  "use strict";
+	
 let card = document.getElementsByClassName('card');
 let cardsList = [...card]
 let openedCards = [];
@@ -19,7 +22,8 @@ let timeCount = 0;
 let clockInterval;
 
 const restartButton = document.getElementsByClassName('restart');
-
+	
+})();
 
 //@description shuffle function from http://stackoverflow.com/a/2450976
 function shuffle(array) {
